@@ -1,0 +1,15 @@
+h1 { 
+    color:chocolate;
+    position:absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+    transition:  0.3s;
+}
+h1:hover{
+    color:aquamarine;
+}
+body {
+    background-color: bisque;
+}
